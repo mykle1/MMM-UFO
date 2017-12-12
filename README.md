@@ -64,9 +64,13 @@ city, state, duration and summary.
         }
     },
 	
+## Use a good text editor or you'll be sorry
+
+There are many. I prefer https://notepad-plus-plus.org/
+	
 ## The Big 3
 
-The three files you will be dealing with here are
+The three files you will be viewing and editing are
 
 * MMM-UFO.js
 * MMM-UFO.css
@@ -81,6 +85,11 @@ and it only needs to be modified slightly to be used in another module of simila
 
 * Side by side is best
 * This way you can see where the data in the JSON Viewer goes in the module file
+
+## Try this test
+
+See if you can add the "_id" element (Look at the JSON Viewer data) to the MMM-UFO.js
+so that it displays as the other elements display. You can do it!
 
 ## That's all for now
 
