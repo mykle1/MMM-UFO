@@ -1,6 +1,6 @@
 ## MMM-UFO
 
-Meant to be used a learning tool for building simple modules using JSON data
+Meant to be used as a learning tool for building simple modules using JSON data
 
 ## Do this
 
